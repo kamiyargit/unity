@@ -1,0 +1,4590 @@
+fileFormatVersion: 2
+guid: 2274526bfa2e6c646ac05cd0d37d0975
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: q2BcXI_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2606
+        width: 268
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d895fa20ebc8841bf14c01ba04d62f
+      internalID: -1530127821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2616
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7e6a10138130144bf847ced15a746b
+      internalID: -389581075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2606
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c154cd4172282f499bac304aed027da
+      internalID: -1134765038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_3
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2606
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a35098d02b298b418d061b7abfa2876
+      internalID: 1322786097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2606
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081194a8bd72d04db63d73911afa70c
+      internalID: 1251453330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_5
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2596
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e377ff421b56e1f40a8d4411fd3bdc16
+      internalID: -1903240112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2596
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59373375d48ec9248a9ae683453c6667
+      internalID: -381467552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_7
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2596
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5e90c9e4a118b40a0dd789c7ea3df0
+      internalID: 1335610657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_8
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2596
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbda422afa6c99846894f4f787a4a70f
+      internalID: -1706959078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_9
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 2596
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c817e592404354c82293b4b5c89d6b
+      internalID: -148739249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_10
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2596
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a3517d6ff1e4c4c91240c559e38a51
+      internalID: -170679990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_11
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 2596
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7102a57537da84c8fcf2994f90472c
+      internalID: -1301802817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_12
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2596
+        width: 218
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ff8cf4dff4483498fffd7ed3daf733
+      internalID: -737627258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_13
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 2596
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d09ef0f321476459b80f40a2d1c407
+      internalID: -318144104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_14
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 2596
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a542e87fd74fb8b46b6ac650692278c5
+      internalID: -1818044153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_15
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 2586
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839e23ea5e637642aee5245fb6a2600
+      internalID: -1218642533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_16
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 2586
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68001bdc0fb8674d850f730f9d2cb10
+      internalID: -533867363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_17
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 2586
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d307c4fa271ac043b497ee16b454d21
+      internalID: 1224015402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_18
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 2586
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7a1a551b953445b0a128bc256f343
+      internalID: -971954025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_19
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2576
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67b498960a628749913d50d7288d515
+      internalID: -1654559858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_20
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 2566
+        width: 428
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889d0803313be474584dc340a7186bc2
+      internalID: 758614024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_21
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f7510092c8324bbb33723c55887b2
+      internalID: 1335833562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_22
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 2556
+        width: 1127
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b90a69276b28b04aa11b4b838baaf67
+      internalID: -1710016032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_23
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 2576
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0f188f85ac69b47861170c4ec2a2de
+      internalID: -1569802206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_24
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2576
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf640fde0e93342a03fb69b6e350f8
+      internalID: 82132782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_25
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 2566
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f625509e921b2249a38f0e46bdb5bd8
+      internalID: -1441324108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2456
+        width: 104
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c428f7b4c6fd74f8b7f6822380d5bf
+      internalID: 1213538628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2446
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60736e6272fcbb4489d665e4b909acca
+      internalID: 661677042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2446
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d6bfcc04b48134f870d6660ef0fb0e
+      internalID: -1364160158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_29
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2446
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58bb0dc0307f9549ad7f0ec9abdd679
+      internalID: 182146047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_30
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 2446
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c5cdd21008e2a4aae746d4d9765d62
+      internalID: -1759773793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_31
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2446
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896c88b66c220d9428fb203b2ec3bc3b
+      internalID: 1850615414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_32
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2446
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9645bafcab9d342488e00281b6970acb
+      internalID: -163913916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_33
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2446
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e978efe2bf2d5a4a875827fdb55726d
+      internalID: -1606265920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_34
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2436
+        width: 128
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da1d242597b86744a1305d72ad30b94
+      internalID: -756553564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_35
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2436
+        width: 118
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5227498d8b203dc42a9ef37b70626613
+      internalID: -1300904324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_36
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 2436
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f1738b92f2604c94dd39180ebe60e
+      internalID: -140899454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_37
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 2436
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153627aefa9f9c54a9a883449c99ac47
+      internalID: -1202467559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_38
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 2426
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda55d4bddb18044bfdc0c3c3dba84d
+      internalID: 828201005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_39
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2416
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fabf53f085dda8458d92250258fa708
+      internalID: 1953863434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_40
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 2426
+        width: 158
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a11c0f0c4432634eb7b2895494a91a0
+      internalID: -1471785138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_41
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2446
+        width: 318
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f9defb3365b04e85e9b6d253041cc
+      internalID: 2029090853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_42
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 2416
+        width: 478
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa7f37ba6032884487c46bbb4696242
+      internalID: -1638216255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_43
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 2436
+        width: 148
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b77fcd8ae2e57b4a8e7615af433560e
+      internalID: -1334177032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_44
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 2426
+        width: 128
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638ef0fd6151c04bb3514e69eae1516
+      internalID: 2090311751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_45
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 2426
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921af51270fc7ec4d80aad9a76cc69c1
+      internalID: 536287068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_46
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 2426
+        width: 168
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32a652ce0c70f24e806d1ced3d2c665
+      internalID: -124144025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_47
+      rect:
+        serializedVersion: 2
+        x: 3836
+        y: 2406
+        width: 328
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c778dde185806b429f66541ed2d07fb
+      internalID: -1752587566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_48
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 2436
+        width: 158
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40af5a64bcf82441861f49698b209c9
+      internalID: -478271919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_49
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 2436
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b300a38e84b9ee43a28367277209193
+      internalID: -744752138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_50
+      rect:
+        serializedVersion: 2
+        x: 4496
+        y: 2426
+        width: 138
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf7db6a079562f488f1874b2aba4da3
+      internalID: 2114276014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_51
+      rect:
+        serializedVersion: 2
+        x: 4646
+        y: 2436
+        width: 148
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d1c412a5197e4197a4698ebc374a6
+      internalID: 1135819111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_52
+      rect:
+        serializedVersion: 2
+        x: 4806
+        y: 2436
+        width: 158
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5207a4302b99b47af9eaded47fdb67
+      internalID: 1170631402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_53
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 2426
+        width: 154
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6671fad5c5a76499b3ccd463a02e2a
+      internalID: 492080520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_54
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2136
+        width: 188
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7990d70c01bf3e64b819b718bc78f402
+      internalID: -459495505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_55
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2196
+        width: 218
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb37e7a0fc2a364589525cd53f06891
+      internalID: 1898371956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_56
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2166
+        width: 278
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9927a01a7c45b9e4b941613652aa1e3f
+      internalID: 1307860904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_57
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2156
+        width: 968
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb454125e2711944dab1f845c5b807d3
+      internalID: 1183338871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_58
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 2186
+        width: 248
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd911134f88fef74bb1320c8cf520252
+      internalID: 553320112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_59
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 2166
+        width: 208
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb979490cd96fb64a8d062ef89c1a8e1
+      internalID: -710419087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_60
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2156
+        width: 238
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7bdcaab57ec6a419cae3d9121665a2
+      internalID: 480271816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_61
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 2136
+        width: 238
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b28ee5f14e724a8ec4273ffc50068
+      internalID: 713773390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_62
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 2146
+        width: 278
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5080b34224b1e15419fbc27278bc8577
+      internalID: -2009718343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_63
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2196
+        width: 328
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037753b5240356f4f90444b09f1cf0a5
+      internalID: 818526056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_64
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 2166
+        width: 228
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daceb6ccfd296cd478b2a9893e2f11f5
+      internalID: -831786714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_65
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 2156
+        width: 218
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ca30fbac507c6409f20a1285c21dac
+      internalID: 624218065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_66
+      rect:
+        serializedVersion: 2
+        x: 4476
+        y: 2126
+        width: 328
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72d60bd16ea1b1428d7660a751a1096
+      internalID: -1008362593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_67
+      rect:
+        serializedVersion: 2
+        x: 4826
+        y: 2256
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4151934dada6b546af5e7fbde1c4256
+      internalID: -720516942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_68
+      rect:
+        serializedVersion: 2
+        x: 4846
+        y: 2106
+        width: 248
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de523683e1c25504186c3ad9669cdcfc
+      internalID: 1710980804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1936
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4a970e497824542bc1a24fda88e37e
+      internalID: -1250749921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1946
+        width: 208
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f08d8e3ae08f34ab072b2d75b673cf
+      internalID: -782254193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_71
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1946
+        width: 288
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cee395ecbf04d498d7f352b4587e31
+      internalID: -1839134543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_72
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1956
+        width: 328
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb1b4fb13c96fd4ab9f188db3b5aede
+      internalID: 1677159460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_73
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1946
+        width: 198
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99d0f9f917dc0d4fb6a2911199df9ba
+      internalID: -2092301267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_74
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1846
+        width: 248
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22099b2a9aafafe44b34c4837ab0e8cd
+      internalID: -997857856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_75
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1846
+        width: 288
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8974f678eb428043877a278c6827e1b
+      internalID: -2070592614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_76
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 1836
+        width: 648
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694060bcbb507df4d9ec2198973cb8b6
+      internalID: 1971205557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1796
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8f0fb1716c964a867943a40b248d4
+      internalID: 1502951932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_78
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1796
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604159ee3e7d13241b48e355a91f38ae
+      internalID: -743070974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_79
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1796
+        width: 238
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e842c075c636f84469d7f5b475d38294
+      internalID: 2024080483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_80
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1796
+        width: 248
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db239615b43ccf542b85011234404e30
+      internalID: -1799637253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_81
+      rect:
+        serializedVersion: 2
+        x: 2776
+        y: 1876
+        width: 208
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4aeb57d702c4845a6bb1116659207f
+      internalID: 660717224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_82
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1806
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b9dbe9d84d714497d2a5e855956d6
+      internalID: -1697367960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_83
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1806
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabcdd11f7395d149b0d5851b940f3f5
+      internalID: 2067316032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_84
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1806
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91513432e0bfc07468054f4d30505db7
+      internalID: -1578894794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_85
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1806
+        width: 208
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a20a623f8eb26b4f969a5d483d55fc3
+      internalID: -339402617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_86
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1786
+        width: 248
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed1fa55018def42ae3f1d83ab276dc
+      internalID: -661892935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_87
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 1836
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bab44e3bd02f334ba257105cd138437
+      internalID: 1253788642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_88
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1636
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ddf5dfd7ea0af4598c38cd323b4bab
+      internalID: 1214946418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_89
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1646
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a8067da94b0b442a541f33487d1458
+      internalID: -571834288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_90
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1646
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1b6131c74b7584e94e1df693d7a5ac
+      internalID: 1584994765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_91
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1646
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32061915f695f342910bdb28dfac4e2
+      internalID: 929297977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_92
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1606
+        width: 168
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3742bb6249b984f42bf6cf71cb7ea38c
+      internalID: 1376982509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_93
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1616
+        width: 188
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07a52522b4bab54abe3c6db1d4a1e66
+      internalID: -1607383274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_94
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1636
+        width: 198
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ecb1e9dcef64b4592988a00df50eb9
+      internalID: 2079068711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_95
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1626
+        width: 198
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0674c7cbd72f82c4e810405921bf8572
+      internalID: 836940569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_96
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 1506
+        width: 298
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb7a33a577b2494ca318510637b745b
+      internalID: -1892230455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_97
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 1496
+        width: 298
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c3f2e6e1b1d4478be5755372c00b8
+      internalID: 688777218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_98
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 1496
+        width: 298
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c06eb4052270f46b3dcb1d82216abc
+      internalID: -6006600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_99
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 1496
+        width: 298
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a458595315ac294b9848433e1150b30
+      internalID: 1850453383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_100
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1486
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0cf01357c1b724b91af283819a8df9
+      internalID: 1260797984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1476
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457eb872bc9f8754ab64e9a9a75b2ab8
+      internalID: -361770017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_102
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1476
+        width: 98
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e884399cdc137c4d8a20c53ef4e7cea
+      internalID: 814272532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_103
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1466
+        width: 128
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa43e678882cec4b85f75de2b104e6f
+      internalID: -2077597163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_104
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1446
+        width: 258
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd20dd47bb494b44498a7cb1823243aa
+      internalID: -586437602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_105
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1516
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047b7bee73048e848ac8409ff66a8cf4
+      internalID: 331855400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_106
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 1436
+        width: 208
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d70317f9e07be46b4510d8978480e9
+      internalID: 1423653290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_107
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1446
+        width: 238
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856da7fa717210e4aad984b71479a4c6
+      internalID: 2105081652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_108
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1456
+        width: 248
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a5afc3227a66b40905a4bb49be6262
+      internalID: 2050723226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1316
+        width: 128
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed55c640899bbe54c86e707b9fc4126b
+      internalID: -1160092741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_110
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1306
+        width: 148
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975793909b824d847ad6f76e30207cbf
+      internalID: 2005649100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_111
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1376
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f315a4c800044488e3480ea825488
+      internalID: -1761507150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_112
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1276
+        width: 198
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a015fe75e9826434d805f6d5013efad1
+      internalID: 878705917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_113
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1326
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c9198e06c9d946bd195dc2d64831d
+      internalID: -1223657409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_114
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1276
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910b96708ef64443b00e407546978d3
+      internalID: -1229849955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_115
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1196
+        width: 208
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645798b41b8143f43a1fbc53466920b6
+      internalID: 74127796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_116
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1206
+        width: 208
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c086699b187308d4783f8b416bc10a15
+      internalID: -353907248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_117
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 1196
+        width: 238
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35ee46ee0cda9488cd33a784c96d78
+      internalID: 1094656753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_118
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 1206
+        width: 208
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a1b5be6ebd22d43a3aaaf7d71bc440
+      internalID: -1292764416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_119
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1176
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d73bd4e8de00b4694ebf9769d25e59
+      internalID: -730899562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_120
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1166
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3191fb8411d553f44844fc20efa66fbc
+      internalID: -1071549860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_121
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1166
+        width: 328
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7d09de8196b10469ed6c9a622564ba
+      internalID: 1193093187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_122
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1146
+        width: 448
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fdf814f73710b41949902d75aabe11
+      internalID: 181653671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_123
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1166
+        width: 448
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e005c084928e97c4caad84dcf3552270
+      internalID: -2077395060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_124
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1186
+        width: 448
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4493ba50601cfa41b2e342614aef1ca
+      internalID: -501490984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_125
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 916
+        width: 168
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c701b0e64871c564d909984eccd49934
+      internalID: 556591229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_126
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 896
+        width: 168
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fb7edf7bbfd844690c355ef6b8ed62
+      internalID: -825267570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_127
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 876
+        width: 568
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951c263c15428054a9a1634fbc95ff53
+      internalID: 1974625933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_128
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 866
+        width: 298
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a6b8fa15b566648940fa920f00ccfa
+      internalID: 1904061111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_129
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 836
+        width: 308
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7bd5470925e94984bc1d3e534506c
+      internalID: 41726370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_130
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 856
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f341ff2dc1bacab4889ace9a38113d1b
+      internalID: -577455636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_131
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 836
+        width: 268
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f599ae6b9bdd1174f9c1075998ce3a5b
+      internalID: 346742864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_132
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 646
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281cca30b9413334eb9b159a10808e8b
+      internalID: -432373482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_133
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 636
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db06a97438f79d4a9dd6c7e75d956ba
+      internalID: 1052390164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_134
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 746
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52c259e78131834f8d1b9efc7ebc1ea
+      internalID: 568928055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_135
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 756
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a18c4f93a33904d8ab23b9f65cd674
+      internalID: 729185447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_136
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 756
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d76a3fd9d2ba864fba0893b370b5340
+      internalID: 1121785275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_137
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 746
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c31b2582893b6548846babb8d861710
+      internalID: -1411013801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_138
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 746
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823a1c21e90a13244b3f496a5f086556
+      internalID: 1096790999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_139
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 766
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd29efa1d2c7f294b84f6b7d60f224a4
+      internalID: 161447439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_140
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 766
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef404e5f35275947a5c3cf3b5357972
+      internalID: 1044779126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_141
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 766
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282beb012187a3c40994cbb526606230
+      internalID: -838310790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_142
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 766
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917b5ed11ba418449bca50f2cdfae629
+      internalID: -969164315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_143
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 746
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2093855bafc99664086e9e6a2ffb305b
+      internalID: 855891858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_144
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 696
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beca779f2d1716f43b87af8c4da8b4fe
+      internalID: -1625506954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_145
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 686
+        width: 128
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a71967d74ca09a40917b83010b7a7e5
+      internalID: -1275171213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_146
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 726
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334859e34f5e81448b0193b5fdc09f6d
+      internalID: -681467156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_147
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 726
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53de2a853344ce47bbe59e48f924b07
+      internalID: -384949673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_148
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 726
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24954c17af98c824a8733a9d121efb49
+      internalID: 1028778371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_149
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 726
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c3e0ee84ef514e88b00b673172325
+      internalID: -605334997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_150
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 696
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd356c7677c2284f8083c66ade441c3
+      internalID: 748977694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_151
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 696
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361eeb425f4b0cd44902b3544fb9db80
+      internalID: -85755854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_152
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 696
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7534fa7d13f023d4482a0b8331abc2d2
+      internalID: 621495437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_153
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 696
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3efc77c868aa4a4c8e87c0633fa6433
+      internalID: 26554507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_154
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 666
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eba73fa94420794288ea43b3452ade5
+      internalID: -1886805759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_155
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 656
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7894cf8ebc7af64587dd28510909725
+      internalID: -1835487528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_156
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 656
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3b56e003653044a8e1df87857dd45c
+      internalID: 2037392617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_157
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 666
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442d1bdf0629e244aca54b8a82e379e
+      internalID: -19527800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_158
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 666
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24247c4150ee8342b19dff4464d943a
+      internalID: 1462265243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_159
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 646
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f620ed438111cd44da7fbd3c23b52fa4
+      internalID: -1082386024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_160
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 636
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700c379b4ff80ee4cb61fa7a11515c2a
+      internalID: -2065501374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_161
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 636
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c00e0b0d28be344bf437a37fd97e93
+      internalID: 941505642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_162
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 646
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f7863e458c4414ab9d60bd6794e653
+      internalID: 1213514436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_163
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 666
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c57f210450936048b095e22106ded7b
+      internalID: -345944578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_164
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 496
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e11ada9f3c228644bda4d7ddbfe56ae
+      internalID: 200283491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_165
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 496
+        width: 88
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5343d724c3ce2d545be8cb1d34811745
+      internalID: 544645551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_166
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 506
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7805fd3688d7579408f1bccccb469761
+      internalID: -1948109961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_167
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 516
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b04423ee103542b4f9d0e9c040966
+      internalID: 109019911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_168
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 516
+        width: 128
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020f8664f2ea5946b86bd2fe617d625
+      internalID: 211735696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_169
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 506
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551179968c3346b4180d5573b3f46b9f
+      internalID: 1857969487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_170
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 108
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159997b7a403de549a022677f1804a59
+      internalID: -71958587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_171
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 76
+        width: 338
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d78d775c81b0a34d8e9120b1d8ac98f
+      internalID: -1331786198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_172
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 236
+        width: 238
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e85745ef1de29e42bd0d67d142a4f66
+      internalID: -214646588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_173
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 356
+        width: 138
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb248e29a14cb4a428c598a4bc25e2bd
+      internalID: -1637108099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_174
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 346
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e7e223f24ecb48bc64922c79d602d
+      internalID: 907271393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_175
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 116
+        width: 238
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b31d59db743dc4f9ee06a92a2a773d
+      internalID: -963694199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_176
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 336
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb085e0df5ee0a4fb7e57f73991b2b6
+      internalID: -886362214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_177
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 336
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0891a3d55e1d28478bd10b8a2984183
+      internalID: -1868370986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_178
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 156
+        width: 148
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd912f28b2f09014197be707eab3e658
+      internalID: 468785553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_179
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 256
+        width: 138
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577d875a58218e6438938e5dc1631e11
+      internalID: 965331239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_180
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 316
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d80e7b9e50e254884a4e1bdbaeb0c6
+      internalID: 22463071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_181
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 236
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0e86131fdd2fb4185e208dfc3aa2c1
+      internalID: -1256433617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_182
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 236
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394aa46089017e419c162129a4f58fd
+      internalID: 1596987355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_183
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 246
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d1359f9662069418f845aea2110022
+      internalID: 1980109219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_184
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 46
+        width: 388
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60e53ae0836985409b0355ad12c2a7b
+      internalID: -135204726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_185
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 0
+        width: 488
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682cff137b9df7645a5e68829c141ada
+      internalID: -787056695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_186
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 0
+        width: 598
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade571f9d49ad0547983f05a56e28455
+      internalID: -1175971439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_187
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 146
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e473eba4cdebf040ad0e9b680ebe984
+      internalID: -1583836013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_188
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 66
+        width: 238
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e87933b514cdd45bbe9fbbb7fa6b3e
+      internalID: -661122585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_189
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 146
+        width: 138
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a001196d4f19e4dabd82eede4a1c11
+      internalID: -1336952149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_190
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 146
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890f36b47f439ef4292a71b291b5eb0e
+      internalID: -1060448700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_191
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 0
+        width: 168
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0c6e6488f0b714cb2b5bd003ffd546
+      internalID: 1820186260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_192
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 146
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1793daa554c314c8dcf180c57ae920
+      internalID: 666657485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_193
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 156
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19044998c46591b41a875b366a4f83ba
+      internalID: -1216881942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_194
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 86
+        width: 178
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3360b42fd92882e47853455c1af2b3de
+      internalID: -1119693344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_195
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 0
+        width: 398
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c50e0dbcba90842819fe4ef345ba77
+      internalID: -1638827182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_196
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 108
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fffb5a57c493f4eb320e55e21c9c22
+      internalID: 1471618219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_197
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 126
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e95e4f8e0de4b44998e851db591993
+      internalID: 2111574245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_198
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 126
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd325970cfb94647b6c204f9b52719a
+      internalID: 187718816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_199
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 116
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857138a6fde52bd4bb9722d6286b8897
+      internalID: -894264382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_200
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 56
+        width: 138
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe3872aca6ea35409bd1661fee83788
+      internalID: 987458376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: q2BcXI_201
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 86
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b3747ca7a43f34194b09aae4eec10e
+      internalID: -2058151326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      q2BcXI_183: 1980109219
+      q2BcXI_113: -1223657409
+      q2BcXI_16: -533867363
+      q2BcXI_189: -1336952149
+      q2BcXI_5: -1903240112
+      q2BcXI_98: -6006600
+      q2BcXI_25: -1441324108
+      q2BcXI_71: -1839134543
+      q2BcXI_179: 965331239
+      q2BcXI_101: -361770017
+      q2BcXI_115: 74127796
+      q2BcXI_85: -339402617
+      q2BcXI_69: -1250749921
+      q2BcXI_67: -720516942
+      q2BcXI_75: -2070592614
+      q2BcXI_135: 729185447
+      q2BcXI_63: 818526056
+      q2BcXI_111: -1761507150
+      q2BcXI_141: -838310790
+      q2BcXI_118: -1292764416
+      q2BcXI_2: -1134765038
+      q2BcXI_37: -1202467559
+      q2BcXI_7: 1335610657
+      q2BcXI_41: 2029090853
+      q2BcXI_152: 621495437
+      q2BcXI_200: 987458376
+      q2BcXI_13: -318144104
+      q2BcXI_56: 1307860904
+      q2BcXI_187: -1583836013
+      q2BcXI_29: 182146047
+      q2BcXI_177: -1868370986
+      q2BcXI_31: 1850615414
+      q2BcXI_34: -756553564
+      q2BcXI_102: 814272532
+      q2BcXI_10: -170679990
+      q2BcXI_114: -1229849955
+      q2BcXI_159: -1082386024
+      q2BcXI_174: 907271393
+      q2BcXI_176: -886362214
+      q2BcXI_129: 41726370
+      q2BcXI_54: -459495505
+      q2BcXI_23: -1569802206
+      q2BcXI_83: 2067316032
+      q2BcXI_26: 1213538628
+      q2BcXI_109: -1160092741
+      q2BcXI_80: -1799637253
+      q2BcXI_59: -710419087
+      q2BcXI_90: 1584994765
+      q2BcXI_192: 666657485
+      q2BcXI_146: -681467156
+      q2BcXI_121: 1193093187
+      q2BcXI_198: 187718816
+      q2BcXI_153: 26554507
+      q2BcXI_88: 1214946418
+      q2BcXI_20: 758614024
+      q2BcXI_74: -997857856
+      q2BcXI_48: -478271919
+      q2BcXI_169: 1857969487
+      q2BcXI_155: -1835487528
+      q2BcXI_99: 1850453383
+      q2BcXI_21: 1335833562
+      q2BcXI_195: -1638827182
+      q2BcXI_150: 748977694
+      q2BcXI_140: 1044779126
+      q2BcXI_166: -1948109961
+      q2BcXI_22: -1710016032
+      q2BcXI_94: 2079068711
+      q2BcXI_1: -389581075
+      q2BcXI_172: -214646588
+      q2BcXI_173: -1637108099
+      q2BcXI_72: 1677159460
+      q2BcXI_156: 2037392617
+      q2BcXI_181: -1256433617
+      q2BcXI_122: 181653671
+      q2BcXI_50: 2114276014
+      q2BcXI_120: -1071549860
+      q2BcXI_182: 1596987355
+      q2BcXI_178: 468785553
+      q2BcXI_116: -353907248
+      q2BcXI_27: 661677042
+      q2BcXI_86: -661892935
+      q2BcXI_123: -2077395060
+      q2BcXI_164: 200283491
+      q2BcXI_100: 1260797984
+      q2BcXI_64: -831786714
+      q2BcXI_103: -2077597163
+      q2BcXI_186: -1175971439
+      q2BcXI_106: 1423653290
+      q2BcXI_32: -163913916
+      q2BcXI_40: -1471785138
+      q2BcXI_96: -1892230455
+      q2BcXI_185: -787056695
+      q2BcXI_33: -1606265920
+      q2BcXI_196: 1471618219
+      q2BcXI_78: -743070974
+      q2BcXI_139: 161447439
+      q2BcXI_175: -963694199
+      q2BcXI_43: -1334177032
+      q2BcXI_18: -971954025
+      q2BcXI_45: 536287068
+      q2BcXI_105: 331855400
+      q2BcXI_95: 836940569
+      q2BcXI_38: 828201005
+      q2BcXI_128: 1904061111
+      q2BcXI_62: -2009718343
+      q2BcXI_66: -1008362593
+      q2BcXI_154: -1886805759
+      q2BcXI_180: 22463071
+      q2BcXI_65: 624218065
+      q2BcXI_124: -501490984
+      q2BcXI_137: -1411013801
+      q2BcXI_157: -19527800
+      q2BcXI_143: 855891858
+      q2BcXI_199: -894264382
+      q2BcXI_55: 1898371956
+      q2BcXI_193: -1216881942
+      q2BcXI_133: 1052390164
+      q2BcXI_190: -1060448700
+      q2BcXI_158: 1462265243
+      q2BcXI_46: -124144025
+      q2BcXI_148: 1028778371
+      q2BcXI_108: 2050723226
+      q2BcXI_79: 2024080483
+      q2BcXI_93: -1607383274
+      q2BcXI_167: 109019911
+      q2BcXI_127: 1974625933
+      q2BcXI_12: -737627258
+      q2BcXI_168: 211735696
+      q2BcXI_76: 1971205557
+      q2BcXI_4: 1251453330
+      q2BcXI_117: 1094656753
+      q2BcXI_84: -1578894794
+      q2BcXI_126: -825267570
+      q2BcXI_136: 1121785275
+      q2BcXI_11: -1301802817
+      q2BcXI_162: 1213514436
+      q2BcXI_131: 346742864
+      q2BcXI_104: -586437602
+      q2BcXI_119: -730899562
+      q2BcXI_160: -2065501374
+      q2BcXI_49: -744752138
+      q2BcXI_61: 713773390
+      q2BcXI_82: -1697367960
+      q2BcXI_87: 1253788642
+      q2BcXI_77: 1502951932
+      q2BcXI_147: -384949673
+      q2BcXI_132: -432373482
+      q2BcXI_194: -1119693344
+      q2BcXI_191: 1820186260
+      q2BcXI_161: 941505642
+      q2BcXI_28: -1364160158
+      q2BcXI_68: 1710980804
+      q2BcXI_15: -1218642533
+      q2BcXI_35: -1300904324
+      q2BcXI_60: 480271816
+      q2BcXI_112: 878705917
+      q2BcXI_97: 688777218
+      q2BcXI_197: 2111574245
+      q2BcXI_30: -1759773793
+      q2BcXI_9: -148739249
+      q2BcXI_42: -1638216255
+      q2BcXI_130: -577455636
+      q2BcXI_73: -2092301267
+      q2BcXI_81: 660717224
+      q2BcXI_51: 1135819111
+      q2BcXI_145: -1275171213
+      q2BcXI_52: 1170631402
+      q2BcXI_8: -1706959078
+      q2BcXI_53: 492080520
+      q2BcXI_201: -2058151326
+      q2BcXI_144: -1625506954
+      q2BcXI_70: -782254193
+      q2BcXI_44: 2090311751
+      q2BcXI_92: 1376982509
+      q2BcXI_19: -1654559858
+      q2BcXI_24: 82132782
+      q2BcXI_170: -71958587
+      q2BcXI_138: 1096790999
+      q2BcXI_142: -969164315
+      q2BcXI_57: 1183338871
+      q2BcXI_39: 1953863434
+      q2BcXI_163: -345944578
+      q2BcXI_165: 544645551
+      q2BcXI_107: 2105081652
+      q2BcXI_188: -661122585
+      q2BcXI_58: 553320112
+      q2BcXI_149: -605334997
+      q2BcXI_89: -571834288
+      q2BcXI_36: -140899454
+      q2BcXI_0: -1530127821
+      q2BcXI_14: -1818044153
+      q2BcXI_17: 1224015402
+      q2BcXI_134: 568928055
+      q2BcXI_47: -1752587566
+      q2BcXI_151: -85755854
+      q2BcXI_6: -381467552
+      q2BcXI_171: -1331786198
+      q2BcXI_184: -135204726
+      q2BcXI_91: 929297977
+      q2BcXI_3: 1322786097
+      q2BcXI_110: 2005649100
+      q2BcXI_125: 556591229
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
